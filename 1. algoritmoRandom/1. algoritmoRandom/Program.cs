@@ -10,12 +10,15 @@ namespace _1._algoritmoRandom
             int num = generador.Next(1, 100);
             Console.WriteLine($"El número generado es: {num}");
 
+            for (int f = 1; f <= 10; f++)
+            {
 
-        }
-        
-        static void Main(string[] args)
-        {
-            NumeroAleatorio();
+            }
+
+            static void Main(string[] args)
+            {
+                NumeroAleatorio();
+            }
         }
     }
 }
