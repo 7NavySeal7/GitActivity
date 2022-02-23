@@ -28,6 +28,12 @@ namespace _1._algoritmoRandom
                     Console.WriteLine($"El número de intentos que requirio para acertar son {f}.");
                     Console.Write("¿Desea intentarlo nuevamente? (Escriba 1(Para Confirmar) y 2(Para rechazar)): ");
                     int num1 = int.Parse(Console.ReadLine());
+                    if (num1 == 1)
+                    {
+                        f = 1;
+                        num = generador.Next(1, 100);
+                        Console.WriteLine($"El número generado es: {num}");
+                    }
                 }
             }
 
