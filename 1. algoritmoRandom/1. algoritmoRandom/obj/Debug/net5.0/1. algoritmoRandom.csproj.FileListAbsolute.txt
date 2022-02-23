@@ -1,0 +1,32 @@
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.exe
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.deps.json
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.runtimeconfig.json
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.runtimeconfig.dev.json
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.dll
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\ref\1. algoritmoRandom.dll
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.pdb
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.csproj.AssemblyReference.cache
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.AssemblyInfoInputs.cache
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.AssemblyInfo.cs
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.dll
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\ref\1. algoritmoRandom.dll
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.pdb
+C:\Users\JUAN\Documents\SENA ADSI\18. Neoris\1. Trabajos Trainee\3. Programacion\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.genruntimeconfig.cache
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.exe
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.deps.json
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.runtimeconfig.json
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.runtimeconfig.dev.json
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.dll
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\ref\1. algoritmoRandom.dll
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.pdb
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.csproj.AssemblyReference.cache
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.AssemblyInfoInputs.cache
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.AssemblyInfo.cs
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.csproj.CoreCompileInputs.cache
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.dll
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\ref\1. algoritmoRandom.dll
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.pdb
+C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.genruntimeconfig.cache
