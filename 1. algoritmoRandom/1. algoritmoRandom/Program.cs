@@ -34,6 +34,10 @@ namespace _1._algoritmoRandom
                         num = generador.Next(1, 100);
                         Console.WriteLine($"El número generado es: {num}");
                     }
+                    else
+                    {
+                        f = 11;
+                    }
                 }
             }
 

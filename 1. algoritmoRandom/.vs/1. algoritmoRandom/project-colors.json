@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06d82145-fd35-413e-ad7d-20ae5b196f83": {
+      "ProjectGuid": "06d82145-fd35-413e-ad7d-20ae5b196f83",
+      "DisplayName": "1. algoritmoRandom",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
