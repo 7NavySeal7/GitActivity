@@ -12,7 +12,8 @@ namespace _1._algoritmoRandom
 
             for (int f = 1; f <= 10; f++)
             {
-
+                Console.Write("[Adivine el número] Ingrese un número entre 1 y 100: ");
+                int valor = int.Parse(Console.ReadLine());
             }
 
             static void Main(string[] args)

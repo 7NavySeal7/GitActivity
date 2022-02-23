@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\camila.rodriguez\\.nuget\\packages\\": {}
+    "C:\\Users\\juan.montenegro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camila.rodriguez\\Desktop\\GitActivity\\1. algoritmoRandom\\1. algoritmoRandom\\1. algoritmoRandom.csproj",
+      "projectUniqueName": "C:\\Users\\juan.montenegro\\Documents\\1. Trabajos Trainee\\5. Ejercicios Git\\1. algoritmoRandom\\1. algoritmoRandom\\1. algoritmoRandom.csproj",
       "projectName": "1. algoritmoRandom",
-      "projectPath": "C:\\Users\\camila.rodriguez\\Desktop\\GitActivity\\1. algoritmoRandom\\1. algoritmoRandom\\1. algoritmoRandom.csproj",
-      "packagesPath": "C:\\Users\\camila.rodriguez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camila.rodriguez\\Desktop\\GitActivity\\1. algoritmoRandom\\1. algoritmoRandom\\obj\\",
+      "projectPath": "C:\\Users\\juan.montenegro\\Documents\\1. Trabajos Trainee\\5. Ejercicios Git\\1. algoritmoRandom\\1. algoritmoRandom\\1. algoritmoRandom.csproj",
+      "packagesPath": "C:\\Users\\juan.montenegro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juan.montenegro\\Documents\\1. Trabajos Trainee\\5. Ejercicios Git\\1. algoritmoRandom\\1. algoritmoRandom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\camila.rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juan.montenegro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
