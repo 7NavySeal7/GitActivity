@@ -14,6 +14,14 @@ namespace _1._algoritmoRandom
             {
                 Console.Write("[Adivine el número] Ingrese un número entre 1 y 100: ");
                 int valor = int.Parse(Console.ReadLine());
+                if (valor > num)
+                {
+                    Console.WriteLine("El número ingresado es mayor");
+                }
+                else if (valor < num)
+                {
+                    Console.WriteLine("El número ingresado es menor");
+                }
             }
 
             static void Main(string[] args)
