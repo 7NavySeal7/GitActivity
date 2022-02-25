@@ -4,6 +4,10 @@ namespace _1._algoritmoRandom
 {
     class Program
     {
+        static void Main(string[] args)
+        {
+            NumeroAleatorio();
+        }
         static void NumeroAleatorio()
         {
             Random generador = new Random();
@@ -41,10 +45,6 @@ namespace _1._algoritmoRandom
                 }
             }
 
-            static void Main(string[] args)
-            {
-                NumeroAleatorio();
-            }
         }
     }
 }

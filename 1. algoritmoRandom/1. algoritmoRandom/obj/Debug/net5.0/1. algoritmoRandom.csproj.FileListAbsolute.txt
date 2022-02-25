@@ -30,3 +30,19 @@ C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRand
 C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\ref\1. algoritmoRandom.dll
 C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.pdb
 C:\Users\juan.montenegro\Documents\2. VS2019\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.genruntimeconfig.cache
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.csproj.AssemblyReference.cache
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.AssemblyInfoInputs.cache
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.AssemblyInfo.cs
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.csproj.CoreCompileInputs.cache
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.dll
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\ref\1. algoritmoRandom.dll
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.pdb
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.exe
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.deps.json
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.runtimeconfig.json
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.runtimeconfig.dev.json
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.dll
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\ref\1. algoritmoRandom.dll
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\bin\Debug\net5.0\1. algoritmoRandom.pdb
+C:\Users\andres.tejero\Documents\EjercicioGit\1. algoritmoRandom\1. algoritmoRandom\obj\Debug\net5.0\1. algoritmoRandom.genruntimeconfig.cache
